@@ -1,5 +1,5 @@
 
-![title](/git-trial/mariamz.jpg)
+![Mariam Photo](/Git-Trial/img/Mariamz.jpg "Mariam Ziadé")
 
 
 # Mariam Ziadé
