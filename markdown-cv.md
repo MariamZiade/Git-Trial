@@ -1,5 +1,5 @@
 
-![title](/Git-Trial/Mariamz.jpg)
+![title](/git-trial/mariamz.jpg)
 
 
 # Mariam Ziadé
